@@ -10,6 +10,6 @@ Algorithms visualized are :
 5. Selection Sort
 
 **Technologies used are- HTML, CSS and JavaScript.**
-Sorting Visualizer website(https://anjali-sorting-visualizer.netlify.app/).
+[Sorting Visualizer website](https://anjali-sorting-visualizer.netlify.app/).
 
 
